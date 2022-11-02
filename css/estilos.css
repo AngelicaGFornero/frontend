@@ -1,0 +1,11 @@
+body {background-color: white;
+      background-image: url(../imagenes/Fondo.jpg);
+      background-attachment: fixed;
+      font-family: sans-serif;
+      font-style: normal;
+}
+
+.titulo {color: #7D3C98;font-size: 40px; text-align: center; text-decoration: underline;}
+.nuevo {font-size: 25px; text-align: justify;}
+.subtitulo {font-size: 20px;text-align: left;text-decoration: underline;}
+.imagen {width: 500 px; height: 300px; 
