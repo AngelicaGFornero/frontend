@@ -8,4 +8,15 @@ body {background-color: white;
 .titulo {color: #7D3C98;font-size: 40px; text-align: center; text-decoration: underline;}
 .nuevo {font-size: 25px; text-align: justify;}
 .subtitulo {font-size: 20px;text-align: left;text-decoration: underline;}
-.imagen {width: 500 px; height: 300px; 
+.imagen {width: 500 px; height: 300px;}
+.icono_whatsapp {width: 200px;
+                 position: fixed;
+                 bottom: 10px;
+                 right: 15px;}
+header {background-color: #EBD8F2;
+        border: 10px #743A8C solid;}
+section {background-color: #28F6B1;
+         border: 5px #9DFBDC
+       }
+aside {background-color: #28F6B1;
+         border: 5px #9DFBDC}
